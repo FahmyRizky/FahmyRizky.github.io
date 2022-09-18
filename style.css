@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: serif;
+  font-variant: small-caps;
+  color: darkred;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  color: #ba0000;
+  text-align: justify;
+  text-transform: capitalize;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
